@@ -1,0 +1,57 @@
+#lb-tests {
+    font-family: arial;
+    font-size: 14px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+#lb-tests h3.test-title {
+    font-size: 18   px;
+    font-weight: bold;
+    margin: 5px 5px 20px 5px;
+}
+
+#lb-tests h4 {
+    font-size: 16px;
+    margin: 3px;
+}
+
+#lb-tests .tests {
+    padding: 15px;
+    margin-bottom: 3px;
+}
+
+#lb-tests .tests ul {
+    margin: 3px 3px 7px 20px;
+}
+
+#lb-tests .tests ul li {
+    margin-top: 7px;
+}
+
+#lb-tests .skipped-tests {
+    background-color: #F9EFAA;
+}
+
+#lb-tests .passed-tests {
+    background-color: #C7F998;
+}
+
+#lb-tests .failed-tests {
+    background-color: #F96970;
+}
+
+#lb-tests .test-summary {
+    padding: 15px;
+    background-color: #70C4F9;
+}
+
+#lb-tests .test-summary ul {
+    display: block;
+    height: 25px;
+}
+
+#lb-tests .test-summary ul li {
+    float: left;
+    margin-right: 30px;
+}

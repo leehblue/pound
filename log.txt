@@ -1,0 +1,2957 @@
+========== 01/06/2015 11:04:35 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 70
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/06/2015 11:05:31 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 11:51:25 AM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 11:52:05 AM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 11:52:15 AM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 11:52:21 AM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 11:55:22 AM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 11:56:04 AM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 11:56:37 AM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 11:57:37 AM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 11:59:02 AM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 11:59:19 AM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:00:03 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:00:27 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:00:46 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:01:05 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:02:56 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:03:07 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:03:47 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:04:38 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:04:54 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:05:15 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:06:21 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:06:32 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:07:32 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:07:56 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:08:10 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:08:35 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:08:43 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:08:55 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:09:00 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:09:43 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:09:50 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:11:08 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:11:19 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:11:22 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:12:11 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:12:36 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:13:32 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:16:28 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:16:28 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #29
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:16:54 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:16:54 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #29
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:17:17 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:17:17 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #29
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:17:39 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:17:39 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #29
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:22:09 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:22:09 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #29
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:22:54 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:22:54 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #29
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:23:28 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:23:28 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #29
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:26:42 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #12
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:26:42 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #29
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:27:43 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #18
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:27:43 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #35
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:28:25 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #18
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #22
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:28:25 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #39
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:29:09 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #18
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #22
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:29:09 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #39
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:29:29 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #18
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #22
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:29:29 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #39
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:29:43 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #18
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #22
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:29:43 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #39
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:30:10 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #18
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #22
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:30:10 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #39
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:30:24 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #18
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #22
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:30:24 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #39
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:30:32 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #18
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #22
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:30:32 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #39
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:33:19 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #18
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #22
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:33:19 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #40
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:33:19 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 0
+    [failed] => 1
+    [passed_messages] => Array
+        (
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: Age is greater than 20 :: The age should be greater than 20 but was 18
+/Users/lee/source/unit-tests/tests/test-all.php :: line #52
+        )
+
+    [skipped_messages] => Array
+        (
+        )
+
+    [summary] => Array
+        (
+            [0] => Failed: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:33:39 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #18
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #22
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:33:39 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #40
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:33:39 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 0
+    [passed_messages] => Array
+        (
+            [0] => Passed: Age is greater than 20
+        )
+
+    [failed_messages] => Array
+        (
+        )
+
+    [skipped_messages] => Array
+        (
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:33:56 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #18
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #22
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:33:56 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #40
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:33:56 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 0
+    [failed] => 0
+    [passed_messages] => Array
+        (
+        )
+
+    [failed_messages] => Array
+        (
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: Age is greater than 20
+        )
+
+    [summary] => Array
+        (
+            [0] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:34:07 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #18
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #22
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:34:07 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #40
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:34:07 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 0
+    [failed] => 1
+    [passed_messages] => Array
+        (
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: Age is greater than 20 :: The age should be greater than 20 but was 18
+/Users/lee/source/unit-tests/tests/test-all.php :: line #52
+        )
+
+    [skipped_messages] => Array
+        (
+        )
+
+    [summary] => Array
+        (
+            [0] => Failed: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:38:11 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: Number of choices should be fewer than three :: Choices chould be fewer than 3 but were 4
+/Users/lee/source/unit-tests/tests/test-all.php :: line #26
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #30
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:38:11 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #48
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:38:11 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 0
+    [failed] => 1
+    [passed_messages] => Array
+        (
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: Age is greater than 20 :: The age should be greater than 20 but was 18
+/Users/lee/source/unit-tests/tests/test-all.php :: line #60
+        )
+
+    [skipped_messages] => Array
+        (
+        )
+
+    [summary] => Array
+        (
+            [0] => Failed: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:38:48 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: Number of choices should be fewer than three :: Number of choices: 4
+/Users/lee/source/unit-tests/tests/test-all.php :: line #26
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #30
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:38:48 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #48
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:38:48 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 0
+    [failed] => 1
+    [passed_messages] => Array
+        (
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: Age is greater than 20 :: The age should be greater than 20 but was 18
+/Users/lee/source/unit-tests/tests/test-all.php :: line #60
+        )
+
+    [skipped_messages] => Array
+        (
+        )
+
+    [summary] => Array
+        (
+            [0] => Failed: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:39:02 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 2
+    [failed] => 2
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+            [1] => Passed: Five should be greater than three
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: Number of choices should be fewer than three :: Number of choices was 4
+/Users/lee/source/unit-tests/tests/test-all.php :: line #26
+            [1] => Failed: Five equals three :: 5 should not equal 3
+/Users/lee/source/unit-tests/tests/test-all.php :: line #30
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 2
+            [1] => Failed: 2
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:39:02 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 1
+    [failed] => 1
+    [passed_messages] => Array
+        (
+            [0] => Passed: Ten should be greater than five
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: True is not false :: True should not equal false
+/Users/lee/source/unit-tests/tests/test-all.php :: line #48
+        )
+
+    [skipped_messages] => Array
+        (
+            [0] => Skipped: This should be skipped
+        )
+
+    [summary] => Array
+        (
+            [0] => Passed: 1
+            [1] => Failed: 1
+            [2] => Skipped: 1
+        )
+
+)
+
+
+========== 01/07/2015 12:39:02 PM America/New_York ==========
+File: /Users/lee/source/unit-tests/includes/class-lb-test.php :: Line: 66
+stdClass Object
+(
+    [passed] => 0
+    [failed] => 1
+    [passed_messages] => Array
+        (
+        )
+
+    [failed_messages] => Array
+        (
+            [0] => Failed: Age is greater than 20 :: The age should be greater than 20 but was 18
+/Users/lee/source/unit-tests/tests/test-all.php :: line #60
+        )
+
+    [skipped_messages] => Array
+        (
+        )
+
+    [summary] => Array
+        (
+            [0] => Failed: 1
+        )
+
+)
+
+
