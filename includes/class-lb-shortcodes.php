@@ -2,8 +2,7 @@
 class LB_Shortcodes {
 
     public static function init() {
-        CC_Log::write( 'adding shortcodes' );
-        add_shortcode('unit_tests', array( 'LB_Shortcodes', 'run_unit_tests' ) );
+        add_shortcode('unit-tests', array( 'LB_Shortcodes', 'run_unit_tests' ) );
     }
 
     /**
