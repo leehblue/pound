@@ -63,7 +63,6 @@ class LB_Test {
 
     public function html_results( $title ) {
         $results = $this->results();
-        LB_Log::write( print_r( $results, true ) );
         return LB_View::get( LB_PATH . 'views/html-test-results.php', array( 'title' => $title, 'results' => $results ) );
     }
 

@@ -35,6 +35,7 @@ class LB_Shortcodes {
         $test_file = isset( $args['file'] ) ? $args['file'] : 'test-all.php';
         $base = dirname( LB_PATH );
         $path = $base . '/' . $args['plugin'] . '/' . $test_dir . '/' . $test_file;
+        //LB_Log::write( "Running file: $path" );
 
         include $path;
 
