@@ -41,7 +41,17 @@ class LB_Test {
             $prefix = 'test';
             $length = strlen($prefix);
             if(substr($name, 0, $length) == $prefix) {
+
+                if( method_exists( $this, 'before_each_test' ) ) {
+                    $this->before_each_test();
+                }
+
                 $this->$name();
+
+                if( method_exists( $this, 'after_each_test' ) ) {
+                    $this->after_each_test();
+                }
+
             }
             else {
                 $prefix = '_test';
