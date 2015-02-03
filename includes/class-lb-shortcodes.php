@@ -24,7 +24,7 @@ class LB_Shortcodes {
      *
      * @param array $args
      */
-    public function run_unit_tests( $args ) {
+    public static function run_unit_tests( $args ) {
 
         // $args['plugin'] is required
         if ( !isset($args['plugin'] ) ) {

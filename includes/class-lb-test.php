@@ -58,7 +58,7 @@ class LB_Test {
                 $length = strlen($prefix);
                 if(substr($name, 0, $length) == $prefix) {
                     $name = str_replace('_test_', '', $name);
-                    $this->_skipped[] = 'Skipped: ' . ucfirst(str_replace('_', ' ', ltrim($name, '_')));
+                    $this->skipped[] = 'Skipped: ' . ucfirst(str_replace('_', ' ', ltrim($name, '_')));
                 }
             }
         }
@@ -104,9 +104,9 @@ class LB_Test {
             $results->summary[] = "Failed: $results->failed";
         }
 
-        if(count($this->_skipped)) {
-            $results->summary[] = 'Skipped: ' . count($this->_skipped);
-            $results->skipped_messages = $this->_skipped;
+        if(count($this->skipped)) {
+            $results->summary[] = 'Skipped: ' . count($this->skipped);
+            $results->skipped_messages = $this->skipped;
         }
 
         return $results;
