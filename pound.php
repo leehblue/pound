@@ -63,7 +63,7 @@ if ( ! class_exists('LB_Unit_Tests') ) {
 
         public function __construct() {
             // Define constants
-            define( 'LB_VERSION_NUMBER', $this->version_number() );
+            define( 'LB_VERSION_NUMBER', '1.0' );
 
             // Register autoloader
             spl_autoload_register( array( $this, 'class_loader' ) );
@@ -121,20 +121,6 @@ if ( ! class_exists('LB_Unit_Tests') ) {
          */
         public function plugin_path() {
             return LB_PATH;
-        }
-
-        /**
-         * Get the plugin version number from the header comments
-         *
-         * @return string
-         */
-        public function version_number() {
-            if(!function_exists('get_plugin_data')) {
-              require_once(ABSPATH . 'wp-admin/includes/plugin.php');
-            }
-
-            $plugin_data = get_plugin_data(LB_PLUGIN_FILE);
-            return $plugin_data['Version'];
         }
 
     }

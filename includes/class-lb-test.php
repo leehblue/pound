@@ -25,7 +25,7 @@ class LB_Test {
         $result = new stdClass();
         $result->passed = $condition;
         $result->message = $message;
-        $this->_test_results[] = $result;
+        $this->test_results[] = $result;
     }
 
     public function run() {
@@ -85,7 +85,7 @@ class LB_Test {
         $results->skipped_messages = array();
         $results->summary          = array();
 
-        foreach($this->_test_results as $result) {
+        foreach($this->test_results as $result) {
             if($result->passed) {
                 $results->passed++;
                 $results->passed_messages[] = $result->message;
