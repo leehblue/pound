@@ -15,7 +15,7 @@ class LB_Should {
      * @param string $needle
      * @return boolean
      */
-    public function start_with( $haystack, $needle ) {
+    public static function start_with( $haystack, $needle ) {
         $length = strlen($needle);
         return (substr($haystack, 0, $length) === $needle);
     }
@@ -27,7 +27,7 @@ class LB_Should {
      * @param string $needle
      * @return boolean
      */
-    public function end_with( $haystack, $needle ) {
+    public static function end_with( $haystack, $needle ) {
         // search forward starting from end minus needle length characters
         $offset = strlen( $haystack ) - strlen( $needle );
         LB_Log::write( "Ends with offset: $offset");
