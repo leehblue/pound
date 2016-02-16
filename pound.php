@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Pound Unit Tests
-Plugin URI: http://leehblue.com
+Plugin URI: http://leehblue.com/unit-testing-wordpress-plugins/
 Description: Easily run unit tests for plugins
 Version: 1.0
 Author: Lee Blue
