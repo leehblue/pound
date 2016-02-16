@@ -30,7 +30,6 @@ class LB_Should {
     public static function end_with( $haystack, $needle ) {
         // search forward starting from end minus needle length characters
         $offset = strlen( $haystack ) - strlen( $needle );
-        LB_Log::write( "Ends with offset: $offset");
         return $needle === "" || strpos( $haystack, $needle, $offset ) !== FALSE;
     }
 
