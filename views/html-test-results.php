@@ -17,7 +17,7 @@
         <h4 class="failed">Failed Tests</h4>
         <ul class="failed">
             <?php foreach( $results->failed_messages as $msg ): ?>
-            <li><pre><?php echo nl2br( $msg ); ?></pre></li>
+            <li><?php echo nl2br( $msg ); ?></li>
             <?php endforeach; ?>
         </ul>
     </div>
