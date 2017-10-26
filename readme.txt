@@ -3,7 +3,8 @@ Contributors: reality66
 Tags: testing, unit testing,  plugins, development
 Requires at least: 3.0
 Tested up to: 4.4
-Stable tag: 1.0
+Requires PHP: 5.4
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,6 +68,10 @@ with clean, colorful output. PHPUnit is a command line tool.
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
 
-Initial relase of Pound
+- Update minimum PHP requirement to PHP 5.4
+
+= 1.0.0 =
+
+- Initial relase of Pound
