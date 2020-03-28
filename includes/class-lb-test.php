@@ -11,11 +11,12 @@ class LB_Test {
         echo $test->run();
     }
 
-    public function check($condition, $error_message=null) {
+    public function check($condition, $error_message=null, $x=1) {
         $trace = debug_backtrace();
-        $func = $trace[1]['function'];
-        $line = $trace[0]['line'];
-        $file = $trace[0]['file'];
+        $y = $x - 1; 
+        $func = $trace[$x]['function'];
+        $line = $trace[$y]['line'];
+        $file = $trace[$y]['file'];
 
         $spec = str_replace('test_', '', $func);
         $message = ucfirst(str_replace('_', ' ', $spec));
@@ -26,6 +27,10 @@ class LB_Test {
         $result->passed = $condition;
         $result->message = $message;
         $this->test_results[] = $result;
+    }
+
+    public function match($expected, $actual) {
+        $this->check( $expected == $actual, "Expected: $expected :: Found: $actual", 2);
     }
 
     public function run() {
